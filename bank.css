@@ -1,0 +1,94 @@
+.bank {
+	text-align: center;
+	width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+
+.col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) .bank {
+
+background:url("/images/bank/bca.png") no-repeat center center !important;
+background-size: 100% 100% !important;
+padding-top: 43px !important;
+
+}
+
+.col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) .bank {
+
+background:url("/images/bank/mandiri.png") no-repeat center center !important;
+background-size: 100% 100% !important;
+padding-top: 43px !important;
+
+}
+
+.col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) .bank {
+
+background:url("/images/bank/bri.png") no-repeat center center !important;
+background-size: 100% 100% !important;
+padding-top: 43px !important;
+
+}
+
+.col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) .bank {
+
+background:url("/images/bank/bni.png") no-repeat center center !important;
+background-size: 100% 100% !important;
+padding-top: 43px !important;
+
+}
+
+.col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) .bank {
+
+background:url("/images/bank/danamon.png") no-repeat center center !important;
+background-size: 100% 100% !important;
+padding-top: 43px !important;
+
+}
+
+.online{
+float: none !important;
+margin: 0 auto !important;
+  width: 135px !important;
+    height: 38px !important;
+  background: url(/images/bank/online.gif) center center no-repeat !important;
+  background-size: cover !important;
+}
+
+.offline{
+float: none !important;
+margin: 0 auto !important;
+  width: 135px !important;
+    height: 38px !important;
+  background: url(/images/bank/offline.gif) center center no-repeat !important;
+    background-size: cover !important;
+}
+
+
+.no-top-margin .uppercase {
+color: #e3c45d !important;
+
+}
+
+.col-3-x {
+  width: 33%;
+}
+
+.col-3 {
+  width: 33.33333%;
+}
+
+footer#footer {
+    border-top: 1px solid #090622 !important;
+}
+
+footer#footer .footer-main {
+    padding: 0 0;
+    background: #07061fe8;
